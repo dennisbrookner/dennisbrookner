@@ -1,4 +1,4 @@
-My name is Dennis Brookner, and I'm a second-year Ph.D. student in [Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu/) in the Harvard Department of Molecular and Cellular Biology. I'm interested in using the tools of X-ray crystallography to learn how protein structure and dynamics contribute to function. Our [lab GitHub page](https://github.com/Hekstra-Lab) contains some cool work, mostly on the data-processing side of crystallography.
+My name is Dennis Brookner, and I'm a third-year Ph.D. student in [Doeke Hekstra's lab](https://hekstralab.fas.harvard.edu/) in the Harvard Department of Molecular and Cellular Biology. I'm interested in using the tools of X-ray crystallography to learn how protein structure and dynamics contribute to function. Our [lab GitHub page](https://github.com/Hekstra-Lab) contains some cool work, mostly on the data-processing side of crystallography.
 
 [<img src="https://github.com/dennisbrookner/dennisbrookner/blob/master/LinkedIn-Logo.png" width=24>](https://www.linkedin.com/in/dennis-brookner/)
 
